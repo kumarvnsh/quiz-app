@@ -1,0 +1,44 @@
+{
+    "question": [
+      "Q1. The term FAT is stands for_____",
+      "Q2. Which of the following command is used to delete a table in SQL?",
+      "Q3.  A Database Management System is a type of _________software.",
+      "Q4.  To which of the following the term DBA referred?",
+      "Q5.  To which of the following the term DBA referred?"
+    ],
+    "answer": [
+      2,
+      4,
+      1,
+      2,
+      2
+    ],
+    "options": [
+  
+      ["File Allocation Tree",
+        "File Allocation Table",
+        "File Allocation Graph",
+        "All of the above"
+      ],
+      ["delete",
+        "truncate",
+        "remove",
+        "drop"
+      ],
+      ["It is a kind of system software",
+        "it is a kind of application software",
+        "it is a kind of general software",
+        "both b and c"
+      ],
+      ["Data Bank Administrator",
+        "Database Administrator",
+        "Data Administrator",
+        "None of the above"
+      ],
+      ["Data Bank Administrator",
+        "Database Administrator",
+        "Data Administrator",
+        "None of the above"
+      ]
+    ]
+  }
